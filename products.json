@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "silikon-profiller",
+    "name": "Silikon Profil & Fitil",
+    "category": "Silikon",
+    "image": "product-profiles.svg",
+    "desc": "Özel kesitli profil, fitil ve ekstrüzyon çözümleri.",
+    "materials": "Silikon (VMQ), EPDM",
+    "quoteType": "Profil / Fitil"
+  },
+  {
+    "slug": "conta-o-ring",
+    "name": "Conta & O-Ring",
+    "category": "Sızdırmazlık",
+    "image": "product-seals.svg",
+    "desc": "Farklı geometriler ve çalışma koşulları için sızdırmazlık elemanları.",
+    "materials": "EPDM, NBR, FKM, VMQ",
+    "quoteType": "Conta / O-Ring"
+  },
+  {
+    "slug": "silikon-hortum",
+    "name": "Silikon Hortum",
+    "category": "Silikon",
+    "image": "product-hoses.svg",
+    "desc": "Düz veya özel kesitli esnek hortum ve boru uygulamaları.",
+    "materials": "Silikon (VMQ)",
+    "quoteType": "Hortum / Boru"
+  },
+  {
+    "slug": "kalipli-parcalar",
+    "name": "Kalıplı Teknik Parçalar",
+    "category": "Özel Üretim",
+    "image": "product-molded.svg",
+    "desc": "Geometriye ve uygulamaya özel elastomer parça tasarımları.",
+    "materials": "EPDM, NBR, VMQ, diğer",
+    "quoteType": "Kalıplı Parça"
+  },
+  {
+    "slug": "levha-serit",
+    "name": "Levha & Şerit",
+    "category": "Silikon",
+    "image": "product-sheets.svg",
+    "desc": "Conta kesimine ve özel imalata uygun levha / şerit formları.",
+    "materials": "Silikon (VMQ), kauçuk",
+    "quoteType": "Levha / Şerit"
+  },
+  {
+    "slug": "titresim-takoz",
+    "name": "Titreşim Takozu",
+    "category": "Kauçuk",
+    "image": "product-mounts.svg",
+    "desc": "Makine ve ekipmanlarda esnek bağlantı parçaları.",
+    "materials": "NR, SBR, EPDM, NBR",
+    "quoteType": "Titreşim Takozu"
+  },
+  {
+    "slug": "koruk-diyafram",
+    "name": "Körük & Diyafram",
+    "category": "Kauçuk",
+    "image": "product-bellows.svg",
+    "desc": "Dinamik hareket ve koruma uygulamalarına yönelik tasarımlar.",
+    "materials": "Uygulamaya özel",
+    "quoteType": "Körük / Diyafram"
+  },
+  {
+    "slug": "ozel-geometri",
+    "name": "Özel Geometrili Parça",
+    "category": "Özel Üretim",
+    "image": "product-custom.svg",
+    "desc": "Teknik çizime veya numuneye göre özelleştirilebilir parçalar.",
+    "materials": "Uygulamaya özel",
+    "quoteType": "Özel Teknik Parça"
+  }
+]
