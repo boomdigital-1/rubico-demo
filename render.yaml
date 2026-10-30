@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: rubico-demo
+    runtime: static
+    buildCommand: 'echo "Rubico static demo"'
+    staticPublishPath: .
+    headers:
+      - path: /*
+        name: X-Robots-Tag
+        value: noindex, nofollow, noarchive
